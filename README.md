@@ -32,7 +32,8 @@
 [linkedin]: https://www.linkedin.com/in/rznkoldas
 
 </br>
-</br>
+
+## Github Stats
 
 <p align="center">
 <a href="https://github.com/rznkolds">
