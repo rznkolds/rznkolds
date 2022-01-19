@@ -4,8 +4,8 @@
 
 <img align="right" src="https://r2.community.samsung.com/t5/image/serverpage/image-id/1186153i97F5F1C076CF1F75?v=v2" width='200'/>
 
-* I am a graduate of Dumlupınar University and department of Computer
-* I am developing applications in **Kotlin** and **Java** languages with my passion for android development.
+* I am a graduate of Dumlupınar University and department of Computer .
+* I am developing applications in **Kotlin** and **Java** languages with my passion for **Android Development .**
 
 <h3 align="left">Languages & Tools</h3>
 
