@@ -40,7 +40,7 @@ I'm
 
 🧙‍♂️ Would you like to find me ?
 
-<p align="center">
+<p align="left">
 	<a href="mailto:rznkolds@outlook.com">
 		<img src="https://img.icons8.com/bubbles/50/000000/email.png" alt="E-mail" width="50" height="50"/>
 	</a>
