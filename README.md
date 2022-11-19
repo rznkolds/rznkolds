@@ -51,3 +51,11 @@ I'm
 		<img src="https://img.icons8.com/bubbles/50/000000/whatsapp.png" alt="Whatsapp" width="50" height="50"/>
 	</a>
 </p>
+
+</br>
+</br>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/daweedkob/count.svg" />
+</p>
