@@ -51,9 +51,3 @@ I'm
 		<img src="https://img.icons8.com/bubbles/50/000000/whatsapp.png" alt="Whatsapp" width="50" height="50"/>
 	</a>
 </p>
-
-</br>
-</br>
-
-<a href=#><img src="contributions.svg"></a>
-
