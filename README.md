@@ -55,6 +55,5 @@ I'm
 </br>
 </br>
 
-<p align="center"> 
-  <a href=#><img src="contributions.svg"></a>
-</p>
+ <a href=#><img src="contributions.svg"></a>
+
