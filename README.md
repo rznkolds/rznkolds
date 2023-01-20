@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Kalam&size=40&duration=6000&color=02e00a&center=false&vCenter=false&width=1500&height=100&lines=Hi+there+👨🏽‍💻+I'm+Ramazan+and+I'm+an+Intern+Android+Developer" alt="Headline" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Kalam&size=40&duration=6000&color=02e00a&center=false&vCenter=false&width=1500&height=100&lines=Hi+there+👨🏽‍💻+I'm+Ramazan+and+I'm+an+Android+Developer" alt="Headline" />
 
 <h2 align="left">Who am I ?</h2>
 
