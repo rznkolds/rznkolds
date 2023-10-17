@@ -44,7 +44,7 @@ I am an android developer who has been in the Android community for three years,
 - Asynchronous
    - [Kotlin Coroutines][29] : The asynchronous library that allows you to define three scopes and dispatchers and execute suspend functions.
 - Data Stream
-   - [Kotlin Flow][19] : It is a data flow structure that listens asynchronously for changes in the data layer and is more flexible than livedata.
+   - [Kotlin Flow][19] : This library is a dataflow structure that aims to listen to data asynchronously and be more flexible than livedata.
    - [Livedata][20] : I use it for a data flow structure that is sensitive to activity and part lifecycle, but I generally prefer flow.
 - Picture
    - [Picasso][21] : It is the first image upload library I met that is older and slightly less efficient than Glide and Coil.
