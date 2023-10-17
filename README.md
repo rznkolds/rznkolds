@@ -42,7 +42,7 @@ I am an android developer who has been in the Android community for three years,
    - [Koin][17] : This library is the dependency injection I've been using a lot lately because of its simplicity compared to Hilt.
    - [Hilt][18] : It is my Dagger based dependency injection library that I can't do without even though it was difficult at first.
 - Asynchronous
-   - [Kotlin Coroutines][29] : The asynchronous library that allows you to define three scopes and dispatchers and execute suspend functions.
+   - [Kotlin Coroutines][29] : A library that allows me to run three scopes and dispatchers with suspend functions asynchronously.
 - Data Stream
    - [Kotlin Flow][19] : It is my asynchronous data streaming library, but it is more flexible than Livedata.
    - [Livedata][20] : I use it for a data flow structure that is sensitive to activity and part lifecycle, but I generally prefer flow.
