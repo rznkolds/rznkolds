@@ -42,31 +42,31 @@ I am an android developer who has been in the Android community for three years,
    - [Koin][17] : This library is the dependency injection I've been using a lot lately because of its simplicity compared to Hilt.
    - [Hilt][18] : It is my Dagger based dependency injection library that I can't do without even though it was difficult at first.
 - Asynchronous
-   - [Kotlin Coroutines][29] : A library that allows me to run three scopes and dispatchers with suspend functions asynchronously.
+   - [Kotlin Coroutines][19] : A library that allows me to run three scopes and dispatchers with suspend functions asynchronously.
 - Data Stream
-   - [Kotlin Flow][19] : It is my asynchronous data streaming library, but it is more flexible than Livedata.
-   - [Livedata][20] : I use it for a data flow structure that is sensitive to activity and part lifecycle, but I generally prefer flow.
+   - [Kotlin Flow][20] : It is my asynchronous data streaming library, but it is more flexible than Livedata.
+   - [Livedata][21] : I use it for a data flow structure that is sensitive to activity and part lifecycle, but I generally prefer flow.
 - Picture
-   - [Picasso][21] : It is the first image upload library I met that is older and slightly less efficient than Glide and Coil.
-   - [Glide][22] : This library is more performance than the picasso, but slightly more complex.
-   - [Coil][23] : This library is new, but it has jetpack compose support and includes all the positive features of picasso and glide.
+   - [Picasso][22] : It is the first image upload library I met that is older and slightly less efficient than Glide and Coil.
+   - [Glide][23] : This library is more performance than the picasso, but slightly more complex.
+   - [Coil][24] : This library is new, but it has jetpack compose support and includes all the positive features of picasso and glide.
 - Animation
-   - [Lottie][24] : It is my library that allows me to animate with raw files.
+   - [Lottie][25] : It is my library that allows me to animate with raw files.
 
 <br/>
  
 🧠 What architectures do I know ?
 
-- [Model - View - ViewModel][25]
-- [Model - View - Controller][26]
-- [Model - View - Adapter][27]
+- [Model - View - ViewModel][26]
+- [Model - View - Controller][27]
+- [Model - View - Adapter][28]
+- [Model - View - Presenter][29]
 
 <br/>
 
 🧠 What am I learning now ?
 
 - [Android Jetpack Conpose][0] 
-- [Model - View - Presenter][28]
 
 <br/>
 
@@ -107,21 +107,21 @@ I am an android developer who has been in the Android community for three years,
 [12]: https://github.com/square/retrofit
 [13]: https://www.apollographql.com/docs/kotlin
 [14]: https://firebase.google.com/docs/build
-[15]: https://basaransuleyman.medium.com/android-jetpack-datastore-5b44675a7301
+[15]: https://developer.android.com/topic/libraries/architecture/datastore
 [16]: https://developer.android.com/training/data-storage/room
 [17]: https://insert-koin.io/docs/quickstart/kotlin
 [18]: https://developer.android.com/training/dependency-injection/hilt-android
-[19]: https://developer.android.com/kotlin/flow
-[20]: https://halil-ozcan.medium.com/android-livedata-kullan%C4%B1m%C4%B1-901bc3ad2ed5
-[21]: https://github.com/square/picasso
-[22]: https://github.com/bumptech/glide
-[23]: https://github.com/coil-kt/coil
-[24]: https://github.com/airbnb/lottie-android
+[19]: https://developer.android.com/kotlin/coroutines
+[20]: https://developer.android.com/kotlin/flow
+[21]: https://developer.android.com/topic/libraries/architecture/livedata
+[22]: https://github.com/square/picasso
+[23]: https://github.com/bumptech/glide
+[24]: https://github.com/coil-kt/coil
+[25]: https://github.com/airbnb/lottie-android
 
 <!--- Architectures -->
 
-[25]: https://en.wikipedia.org/wiki/Model-view-viewmodel
-[26]: https://en.wikipedia.org/wiki/Model-view-controller
-[27]: https://en.wikipedia.org/wiki/Model-view-adapter
-[28]: https://en.wikipedia.org/wiki/Model-view-presenter
-[29]: https://developer.android.com/kotlin/coroutines
+[26]: https://en.wikipedia.org/wiki/Model-view-viewmodel
+[27]: https://en.wikipedia.org/wiki/Model-view-controller
+[28]: https://en.wikipedia.org/wiki/Model-view-adapter
+[29]: https://en.wikipedia.org/wiki/Model-view-presenter
