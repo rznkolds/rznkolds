@@ -2,7 +2,7 @@
 
 <h2 align="left">Who am I ?</h2>
 
-I am an android developer who has been in the Android community for three years, constantly improving himself and aiming for specialization.
+I am an Android Developer who has been in the Android community for three years, constantly improving himself and aiming for specialization.
 
 <br/>
 
